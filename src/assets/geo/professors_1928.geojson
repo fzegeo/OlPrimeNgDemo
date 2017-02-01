@@ -1,0 +1,1611 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.1817950342525645, 
+                    48.0974513492443
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 1, 
+                "num": 11, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.535878922543779, 
+                    49.85164966063374
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 2, 
+                "num": 20, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.976500747402365, 
+                    41.91155560000567
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 3, 
+                "num": 47, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.963252426880885, 
+                    51.8002050422875
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 4, 
+                "num": 44, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.941986950736366, 
+                    51.603351539065365
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 5, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.7281515445587328, 
+                    62.899414254286874
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 6, 
+                "num": 9, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.652650414364896, 
+                    63.106463120212176
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 7, 
+                "num": 34, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    32.49598907736273, 
+                    57.05220931941145
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 8, 
+                "num": 13, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.47775547851907, 
+                    44.121534460401435
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 9, 
+                "num": 36, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.799187778985761, 
+                    47.11101570658664
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 10, 
+                "num": 44, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.851637342022002, 
+                    60.80080002944054
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 11, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.5323527076903085, 
+                    50.27546391873784
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 12, 
+                "num": 32, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.390510271255053, 
+                    52.61858016622262
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 13, 
+                "num": 35, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.6501693787116345, 
+                    50.41348808397773
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 14, 
+                "num": 48, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.702070162954826, 
+                    43.70963969368026
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 15, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.08722387019749434, 
+                    40.12904501449022
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 16, 
+                "num": 37, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.936881352389943, 
+                    50.81744837483037
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 17, 
+                "num": 11, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.11375479134645, 
+                    49.59885614594412
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 18, 
+                "num": 15, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.9440317456719702, 
+                    58.51997682570418
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 19, 
+                "num": 17, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.6789479855050917, 
+                    41.48304844415889
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 20, 
+                "num": 49, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.318766155677533, 
+                    62.35007519688014
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 21, 
+                "num": 1, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.51576153210968, 
+                    40.62962832500257
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 22, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.457427885515545, 
+                    50.60738869322331
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 23, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.783183817545018, 
+                    55.17472265484375
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 24, 
+                "num": 4, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.60955396327305, 
+                    37.49216473046882
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 25, 
+                "num": 41, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.360252172398056, 
+                    55.5819662152733
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 26, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.338634018868262, 
+                    64.46228689517616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 27, 
+                "num": 33, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    27.307379225062554, 
+                    43.219099866751975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 28, 
+                "num": 5, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.32779407800727, 
+                    45.49033446583232
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 29, 
+                "num": 5, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.863989634582687, 
+                    58.8304275197059
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 30, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.558483692487492, 
+                    41.00394951372073
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 31, 
+                "num": 9, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.001940215378063, 
+                    63.9658942212896
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 32, 
+                "num": 29, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.636275840630017, 
+                    54.54938189334926
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 33, 
+                "num": 30, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.470661421865934, 
+                    62.45699184701695
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 34, 
+                "num": 28, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.5985331839204107, 
+                    38.60165728961628
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 35, 
+                "num": 32, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.249205960882247, 
+                    60.263442802057554
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 36, 
+                "num": 21, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.739850519978464, 
+                    38.56045071205152
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 37, 
+                "num": 10, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.693556501706005, 
+                    45.72162976029373
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 38, 
+                "num": 33, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.55790951148543, 
+                    62.857739638011225
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 39, 
+                "num": 8, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.546535925860862, 
+                    39.22841857167612
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 40, 
+                "num": 35, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.850184570310514, 
+                    47.78471084909541
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 41, 
+                "num": 14, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.782404196465183, 
+                    37.459817233669575
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 42, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.98015700851265, 
+                    51.12743218660678
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 43, 
+                "num": 17, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.035961373731109, 
+                    41.456644628647595
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 44, 
+                "num": 6, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.478742004310314, 
+                    58.98558484766893
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 45, 
+                "num": 23, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.678857850548521, 
+                    41.70266826731163
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 46, 
+                "num": 40, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.411575725088586, 
+                    51.87897442264046
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 47, 
+                "num": 45, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.978102180243845, 
+                    57.457599051691155
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 48, 
+                "num": 46, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.393618247797534, 
+                    52.057933244172446
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 49, 
+                "num": 32, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.603911111731083, 
+                    57.922450537484835
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 50, 
+                "num": 27, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.174257284833632, 
+                    50.999375819926136
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 51, 
+                "num": 47, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.90277859182213, 
+                    61.620701110482614
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 52, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.597195213769602, 
+                    43.65863374514591
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 53, 
+                "num": 34, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.30256998517622, 
+                    44.30090024978215
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 54, 
+                "num": 48, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.1702443261971744, 
+                    58.18637981584425
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 55, 
+                "num": 40, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.691016244032141, 
+                    45.969889587458354
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 56, 
+                "num": 15, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.095535750010153, 
+                    60.20970292773252
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 57, 
+                "num": 14, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.998376191202912, 
+                    47.80495493830264
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 58, 
+                "num": 31, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.5984101896856675, 
+                    64.74678969122418
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 59, 
+                "num": 32, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.589150937179504, 
+                    40.08483994422707
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 60, 
+                "num": 26, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.754069675323663, 
+                    62.2525443721253
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 61, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.577055355764287, 
+                    57.69133153338565
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 62, 
+                "num": 4, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.562129516277256, 
+                    63.066447863657636
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 63, 
+                "num": 27, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.50070995538487, 
+                    47.164028289830824
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 64, 
+                "num": 43, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.852665347925345, 
+                    44.99381732479598
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 65, 
+                "num": 24, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.872639102234449, 
+                    60.07923397949413
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 66, 
+                "num": 21, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.024740253798214, 
+                    40.3857889224102
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 67, 
+                "num": 46, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.01438692728965, 
+                    42.55862984488694
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 68, 
+                "num": 49, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.5000356672193, 
+                    37.11631625100062
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 69, 
+                "num": 33, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.5693922475167192, 
+                    42.76756395399499
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 70, 
+                "num": 12, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.72639325554957, 
+                    60.86340035608943
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 71, 
+                "num": 49, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.34791164174117, 
+                    55.675124507057795
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 72, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.93167333743338, 
+                    50.256832863228325
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 73, 
+                "num": 48, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.981791202432056, 
+                    59.16264919506351
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 74, 
+                "num": 40, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.48810114020763, 
+                    37.457055594002796
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 75, 
+                "num": 26, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.67403743227489, 
+                    53.29955958041823
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 76, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.7343281137802222, 
+                    53.89464110202904
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 77, 
+                "num": 29, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.049412841779684, 
+                    56.679346042412966
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 78, 
+                "num": 7, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.938042107150892, 
+                    58.87951477430363
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 79, 
+                "num": 47, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.12608314190131, 
+                    40.288702241700086
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 80, 
+                "num": 15, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.976842900732997, 
+                    60.61457341037685
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 81, 
+                "num": 26, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.89811018573747, 
+                    53.45647893540081
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 82, 
+                "num": 2, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.491293315024176, 
+                    46.882017491190204
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 83, 
+                "num": 1, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.11971893737411, 
+                    54.76300209022016
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 84, 
+                "num": 33, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.802330546311602, 
+                    50.84669190647537
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 85, 
+                "num": 26, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.794396918687347, 
+                    63.23127090906507
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 86, 
+                "num": 25, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.271191005060981, 
+                    56.624005571924926
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 87, 
+                "num": 4, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.197396508666834, 
+                    62.511197060557734
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 88, 
+                "num": 11, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.84530986835154, 
+                    52.683766787383206
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 89, 
+                "num": 36, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.274212851078676, 
+                    47.927892955266145
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 90, 
+                "num": 11, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.826323601935715, 
+                    39.74260870841712
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 91, 
+                "num": 21, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.829661143427536, 
+                    49.47730677434644
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 92, 
+                "num": 41, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.690582210858493, 
+                    54.68372018050944
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 93, 
+                "num": 7, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.878158681564106, 
+                    57.80861514206852
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 94, 
+                "num": 16, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.11622192551227, 
+                    40.583648354554455
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 95, 
+                "num": 26, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.1427225078758454, 
+                    61.78674487005557
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 96, 
+                "num": 45, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.008839275894053, 
+                    52.21098529136811
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 97, 
+                "num": 4, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.256858247660855, 
+                    62.05519850854505
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 98, 
+                "num": 14, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.562793380045163, 
+                    52.21882888580686
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 99, 
+                "num": 22, 
+                "type": "professors"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.223096325058144, 
+                    37.163528654006605
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 100, 
+                "num": 40, 
+                "type": "professors"
+            }
+        }
+    ]
+}

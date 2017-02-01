@@ -1,0 +1,971 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    27.916361162333928, 
+                    38.682676843575365
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 1, 
+                "num": 41, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.255399759816306, 
+                    57.87709335637717
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 2, 
+                "num": 23, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.628763470530503, 
+                    56.66654802798689
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 3, 
+                "num": 9, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.19962594305958, 
+                    59.97412795302506
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 4, 
+                "num": 10, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.87949692448858, 
+                    37.03810339150721
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 5, 
+                "num": 43, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.5502234468454876, 
+                    41.07099476758053
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 6, 
+                "num": 1, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.014505348804425, 
+                    39.77945100738124
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 7, 
+                "num": 43, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.578051601104463, 
+                    60.587975078826716
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 8, 
+                "num": 50, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.6654569981084855, 
+                    51.76208242197164
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 9, 
+                "num": 25, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.30407979861602, 
+                    53.20191534700979
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 10, 
+                "num": 11, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.521979281799759, 
+                    41.381161123269514
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 11, 
+                "num": 25, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.19972762661338, 
+                    39.75055607281571
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 12, 
+                "num": 29, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.04108470001341935, 
+                    59.79336805100108
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 13, 
+                "num": 35, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.496522178737624, 
+                    44.85349532396484
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 14, 
+                "num": 10, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.044874173517492, 
+                    39.29275555338325
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 15, 
+                "num": 20, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.640400849007513, 
+                    41.68562020491471
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 16, 
+                "num": 35, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.492690150548043, 
+                    36.733606644892745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 17, 
+                "num": 15, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.053570683513787, 
+                    54.59061232787114
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 18, 
+                "num": 22, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.08827742777501957, 
+                    42.14590069890901
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 19, 
+                "num": 2, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.898790902085626, 
+                    48.346301791962894
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 20, 
+                "num": 5, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.6024963433150599, 
+                    59.06586470430477
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 21, 
+                "num": 22, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.440376372322699, 
+                    53.23288622316133
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 22, 
+                "num": 11, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.29062436025842, 
+                    39.87269391594697
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 23, 
+                "num": 42, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.161276609090244, 
+                    56.21602648386259
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 24, 
+                "num": 10, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.626845281511457, 
+                    50.20612596936425
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 25, 
+                "num": 50, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.0720832743378, 
+                    38.63198449578857
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 26, 
+                "num": 24, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.173425518365361, 
+                    55.27638006991472
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 27, 
+                "num": 5, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.096083123224698, 
+                    58.108786118623826
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 28, 
+                "num": 50, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.58178582710148, 
+                    59.43416703101556
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 29, 
+                "num": 13, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.749702744134674, 
+                    61.080447019549496
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 30, 
+                "num": 34, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.37960287782693936, 
+                    50.895860869064904
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 31, 
+                "num": 41, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.431848771503574, 
+                    43.08831883876258
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 32, 
+                "num": 14, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.516678658788358, 
+                    64.19064693160703
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 33, 
+                "num": 1, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.361902086971348, 
+                    59.26507708801947
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 34, 
+                "num": 7, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.2968295063058406, 
+                    58.76151563065134
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 35, 
+                "num": 33, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.32770007538213, 
+                    40.87088337728637
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 36, 
+                "num": 26, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.4687493450329452, 
+                    40.914212594143436
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 37, 
+                "num": 1, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.676016848892434, 
+                    36.969047476733344
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 38, 
+                "num": 27, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.4465654625024138, 
+                    57.12005865516274
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 39, 
+                "num": 49, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.8721093262584807, 
+                    45.51221454701882
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 40, 
+                "num": 30, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.4199324610616, 
+                    61.69505828407573
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 41, 
+                "num": 16, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.9866690734600625, 
+                    38.16871386912653
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 42, 
+                "num": 13, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.86802617943449, 
+                    43.971869804750966
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 43, 
+                "num": 13, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.0477405037516854, 
+                    40.76410465344497
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 44, 
+                "num": 4, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.485234332249846, 
+                    62.07696406685786
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 45, 
+                "num": 7, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.908054546105454, 
+                    37.70201172865251
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 46, 
+                "num": 49, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.1843796785579226, 
+                    57.83564845452266
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 47, 
+                "num": 19, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.223917986811948, 
+                    54.11470158027447
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 48, 
+                "num": 15, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.950102041063552, 
+                    53.15884487224784
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 49, 
+                "num": 35, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.973257403631493, 
+                    53.66430847649623
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 50, 
+                "num": 44, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.07187332692092, 
+                    49.29434309307481
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 51, 
+                "num": 24, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.501339390352298, 
+                    57.64451627064727
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 52, 
+                "num": 9, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.719444157211832, 
+                    47.07050553471143
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 53, 
+                "num": 22, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.606637464402986, 
+                    59.02246520739327
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 54, 
+                "num": 14, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.5379122272513213, 
+                    49.35845936977789
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 55, 
+                "num": 20, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.44314076558108, 
+                    54.47015311853179
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 56, 
+                "num": 9, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.331337860878527, 
+                    63.12018351984361
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 57, 
+                "num": 47, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.519339761584213, 
+                    38.08697364617905
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 58, 
+                "num": 23, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.486705873925633, 
+                    61.17275755265477
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 59, 
+                "num": 44, 
+                "type": "historians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.566357033497404, 
+                    54.02805768363437
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 60, 
+                "num": 6, 
+                "type": "historians"
+            }
+        }
+    ]
+}

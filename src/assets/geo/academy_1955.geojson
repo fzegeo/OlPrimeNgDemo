@@ -1,0 +1,971 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.733260382594366, 
+                    45.385703537644
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 1, 
+                "num": 16, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.943565076106712, 
+                    47.208386015495165
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 2, 
+                "num": 1, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.418515047287315, 
+                    44.42058287368314
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 3, 
+                "num": 4, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.4214755999022666, 
+                    58.293895918946305
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 4, 
+                "num": 16, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.221551572899603, 
+                    60.83453257405015
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 5, 
+                "num": 16, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.8254457227114, 
+                    42.14330765333381
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 6, 
+                "num": 6, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    27.077654593789866, 
+                    40.74718313640272
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 7, 
+                "num": 8, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.0364047834722, 
+                    42.73210756127599
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 8, 
+                "num": 19, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.538094188638645, 
+                    46.8954347371159
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 9, 
+                "num": 17, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.123907410327543, 
+                    38.427477037497425
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 10, 
+                "num": 17, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.567423532497607, 
+                    54.01548066910094
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 11, 
+                "num": 14, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.325592900708088, 
+                    43.18113037980178
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 12, 
+                "num": 4, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    32.41839042220613, 
+                    44.34776450270164
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 13, 
+                "num": 20, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.1481278108732713, 
+                    48.699317262171256
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 14, 
+                "num": 15, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.85943500773979, 
+                    59.88384638606931
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 15, 
+                "num": 12, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.657307863068638, 
+                    52.62706703214356
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 16, 
+                "num": 3, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.733386159716517, 
+                    63.21673515960545
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 17, 
+                "num": 19, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.883827166420538, 
+                    52.909852577014036
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 18, 
+                "num": 9, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.549961161393156, 
+                    60.183270155662065
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 19, 
+                "num": 16, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.42249062128282, 
+                    58.52161774366721
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 20, 
+                "num": 10, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.198595632835833, 
+                    38.9475641503989
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 21, 
+                "num": 6, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.63116149176509, 
+                    61.98450759586337
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 22, 
+                "num": 17, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.510466516051288, 
+                    59.34585434825075
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 23, 
+                "num": 3, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.971550243646046, 
+                    60.42776232921504
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 24, 
+                "num": 18, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.188023425446456, 
+                    37.40908365788587
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 25, 
+                "num": 10, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    27.903850573986404, 
+                    60.00591294278044
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 26, 
+                "num": 12, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.9767292714103748, 
+                    39.776957136210726
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 27, 
+                "num": 8, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.894741114288358, 
+                    50.914447363779196
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 28, 
+                "num": 8, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.281446776563893, 
+                    54.677701166224196
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 29, 
+                "num": 11, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.699204110519144, 
+                    38.7016844884976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 30, 
+                "num": 10, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.11555294183629, 
+                    46.978613257892164
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 31, 
+                "num": 13, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.3112902560737263, 
+                    57.13435674345102
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 32, 
+                "num": 9, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.29534452607027, 
+                    62.003630301853306
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 33, 
+                "num": 18, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.33422268249597, 
+                    56.57348903487917
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 34, 
+                "num": 3, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.201853380354965, 
+                    42.362896263076394
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 35, 
+                "num": 17, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.265936743159305, 
+                    63.820174958783525
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 36, 
+                "num": 11, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.639577294899588, 
+                    60.63849511683465
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 37, 
+                "num": 13, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.798201813962788, 
+                    36.944209460572885
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 38, 
+                "num": 7, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.29441920042373, 
+                    44.746664513909835
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 39, 
+                "num": 4, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.938051373395552, 
+                    48.23083431595205
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 40, 
+                "num": 9, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.836394813436154, 
+                    52.884275566537696
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 41, 
+                "num": 1, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.734947931627225, 
+                    39.58919701171848
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 42, 
+                "num": 15, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.08116710872082, 
+                    58.333913767715174
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 43, 
+                "num": 11, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.611196388528267, 
+                    37.58200230439836
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 44, 
+                "num": 6, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.7306128020795217, 
+                    64.39331397685
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 45, 
+                "num": 18, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.890540247391563, 
+                    64.671166569316
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 46, 
+                "num": 4, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    22.893129243245873, 
+                    56.3567624177854
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 47, 
+                "num": 8, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.541690618576947, 
+                    43.56899389142101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 48, 
+                "num": 18, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.4388035087885047, 
+                    45.22594472913413
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berlin", 
+                "ogc_fid": 49, 
+                "num": 1, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.17871552610444, 
+                    43.53087539239374
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 50, 
+                "num": 10, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.094970156456846, 
+                    55.77410968011348
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 51, 
+                "num": 15, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.314317297750815, 
+                    45.180258237496425
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 52, 
+                "num": 5, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.636809855001104, 
+                    56.28119815366752
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Paris", 
+                "ogc_fid": 53, 
+                "num": 14, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.877080321728016, 
+                    48.146643128002104
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 54, 
+                "num": 11, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.780940692403362, 
+                    37.69470999691471
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 55, 
+                "num": 11, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.350807152513871, 
+                    44.41786887494212
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 56, 
+                "num": 15, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.103659875396396, 
+                    53.28632662047925
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 57, 
+                "num": 4, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.230658450106517, 
+                    48.484961911203044
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 58, 
+                "num": 9, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.127749795021755, 
+                    56.76908296929443
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frankfurt", 
+                "ogc_fid": 59, 
+                "num": 11, 
+                "type": "academy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.362346770716297, 
+                    46.1881446163125
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "London", 
+                "ogc_fid": 60, 
+                "num": 15, 
+                "type": "academy"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "label": "Labels",
+            "children": [
+
+                      {
+                          "label": "Countries (1830)",
+                          "data": {
+                            "layerId": "country_labels_1830"
+                          }
+                      },
+                      {
+                          "label": "Cities (1830)",
+                          "data": {
+                            "layerId": "city_labels_1830"
+                          }
+                }
+            ]
+        },
+        {
+            "label": "Institutions",
+            "children": [
+                      {
+                          "label": "Academies (1830)",
+                          "data": {
+                              "layerId": "academies_1830"
+                          }
+                      },
+                      {
+                          "label": "Archives (1830)",
+                          "data": {
+                              "layerId": "archives_1830"
+                          }
+                      },
+                      {
+                          "label": "Associations (1830)",
+                          "data": {
+                              "layerId": "associations_1830"
+                          }
+                      },
+                      {
+                          "label": "Museums (1830)",
+                          "data": {
+                              "layerId": "museums_1830"
+                          }
+                      }
+            ]
+        },
+        {
+            "label": "Historians",
+            "children": [
+                      {
+                          "label": "Professors (1830)",
+                          "data": {
+                              "layerId": "professors_1830"
+                          }
+                      },
+                      {
+                          "label": "Historians (1830)",
+                          "data": {
+                              "layerId": "historians_1830"
+                          }
+                      },
+                      {
+                          "label": "Male Historians (1830)",
+                          "data": {
+                              "layerId": "historians_male_1830"
+                          }
+                      },
+                      {
+                          "label": "Female Historians (1830)",
+                          "data": {
+                              "layerId": "historians_female_1830"
+                          }
+                      }
+            ]
+        }
+    ]
+}

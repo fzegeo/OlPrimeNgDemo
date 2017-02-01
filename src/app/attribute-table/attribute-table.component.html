@@ -1,0 +1,37 @@
+<!--
+<p>{{activeLayerName}}</p>
+<ul>
+    <li *ngFor="let feature of layerFeatures">{{feature.city}}</li>
+</ul>
+-->
+<p *ngIf="showAttributes">Child show attributes is active!</p>
+
+<p-dialog
+    header="Attribute Table for {{ activeAttributeLayerName }}"
+    responsive="true"
+    [(visible)]="showAttributeTable"
+    (onBeforeHide)="resetAttributes(false)"
+    (onAfterHide)="changeParentShowState(false)">
+
+  <p-dataTable #dt
+      [value]="layerFeatures"
+      selectionMode="multiple"
+      [(selection)]="selectedFeatures"
+      [resizableColumns]="true"
+      [paginator]="true"
+      [responsive]="true"
+      [rows]="10"
+      [rowsPerPageOptions]="[10,25,50]"
+      (onRowSelect)="handleSelectRow($event)"
+      (onRowUnselect)="handleUnselectRow($event)">
+
+    <p-column *ngFor="let colHeader of colHeaders"
+        field="{{colHeader}}"
+        header="{{colHeader | uppercase}}"
+        [sortable]="true"
+        [filter]="true"></p-column>
+
+  </p-dataTable>
+  <button type="button" pButton icon="fa-file-o"
+    iconPos="left" label="CSV" (click)="dt.exportCSV()"></button>
+</p-dialog>

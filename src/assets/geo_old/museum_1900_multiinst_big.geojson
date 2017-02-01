@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.0687, 59.3171]}, "properties": {"type": "museum", "num": 5, "layername": "Museum", "mapid": "046-G-34237", "city": "Stockholm", "instinfo": "0001"}}]}

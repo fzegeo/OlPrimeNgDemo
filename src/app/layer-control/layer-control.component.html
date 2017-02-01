@@ -1,0 +1,44 @@
+<select name="Base Selection" #baseselect (change)="yearChange($event)" [(ngModel)]="year">
+    <option *ngFor="let year of years" value="{{year}}">Europe {{year}}</option>
+</select>
+
+<p-tree [value]="layerTree"
+    selectionMode="checkbox"
+    [(selection)]="selectedLayers"
+    (onNodeSelect)="selectNode($event)"
+    (onNodeUnselect)="unselectNode($event)">
+    <template let-node  pTemplate="default">
+        <div
+            (mouseenter)="node.showUiOptionsButton = true"
+            (mouseleave)="node.showUiOptionsButton = false; node.showUiOptions = false">
+            <div class="node-element">
+                {{node.label}}
+                <span *ngIf="node.showUiOptionsButton">
+                    <i (click)="toggleUiOptions($event, node)" class="fa fa-wrench" pTooltip="Show Layer Options" tooltipPosition="top"></i>
+                </span>
+            </div>
+            <div *ngIf="node.showUiOptions" class="node-ui-elements">
+                <i class="fa fa-arrows-alt" (click)="zoomToExtent($event, node)" pTooltip="Zoom to Extent" tooltipPosition="top"></i>
+                <i class="fa fa-download" pTooltip="Download as Geojson" tooltipPosition="top"></i>
+                <i class="fa fa-database" (click)="showAttributes($event, node)" pTooltip="Show Attributes" tooltipPosition="top"></i>
+                <i class="fa fa-edit" (click)="editStyle($event, node)" pTooltip="Edit Style" tooltipPosition="top"></i>
+            </div>
+        </div>
+    </template>
+</p-tree>
+
+
+<app-style-editor
+    [activeStyleLayerName]="activeStyleLayerName"
+    (dialogClose)="handleEditStyleDialogClosed($event)"
+    [(showStyleEditor)]="showStyleEditor">
+</app-style-editor>
+
+
+<app-attribute-table
+  [activeAttributeLayerName]="activeAttributeLayerName"
+  (dialogClose)="handleAttributeDialogClosed($event)"
+  [layerFeatures]="attributeTableFeatures"
+  [colHeaders]="colHeaders"
+  [(showAttributeTable)]="showAttributeTable">
+</app-attribute-table>

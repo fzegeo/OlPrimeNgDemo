@@ -1,0 +1,11 @@
+<p-dialog
+    header="Edit Style for {{ activeStyleLayerName }}"
+    responsive="true"
+    [(visible)]="showStyleEditor"
+    (onAfterHide)="handleDialogClose($event)">
+    <input (change)="updateStyle($event)" [(ngModel)]="color" type="color">
+    <p-spinner (onChange)="updateStyle($event)" (onChange)="updateStyle($event)" (click)="updateStyle($event)" [(ngModel)]="size"></p-spinner>
+    <p-slider (onSlideEnd)="updateStyle($event)" [(ngModel)]="opacity" [min]="1" [max]="100" [step]="5"></p-slider>
+    <p>Opacity: {{opacity / 100}}</p>
+
+</p-dialog>

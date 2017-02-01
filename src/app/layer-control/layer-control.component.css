@@ -1,0 +1,28 @@
+.node-element {
+    height: 55px;
+}
+
+.node-ui-elements {
+    height: 15px;
+}
+
+.ui-tree {
+    width: 100%;
+}
+
+.ui-treenode-content {
+    background-color: red;
+}
+
+
+.ui-treenode-label {
+    width: 100%;
+}
+
+.ui-tree .ui-tree-toggler {
+    cursor: pointer;
+    position: relative;
+    float: right;
+    vertical-align: top;
+    background-color: blue;
+}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3482, 48.8581]}, "properties": {"type": "academy", "num": 3, "layername": "Academy", "mapid": "033-G-18561", "city": "Paris", "instinfo": "1000"}}]}

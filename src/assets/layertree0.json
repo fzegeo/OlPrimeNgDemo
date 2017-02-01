@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "label": "1830",
+            "children": [
+                {
+                  "label": "Historians",
+                  "children": [
+                      {
+                          "label": "Professors",
+                          "data": {
+                            "layerId": "professors_1830"
+                          }
+                      },
+                      {
+                          "label": "Regular",
+                          "data": {
+                            "layerId": "regular_1830"
+                          }
+                      }
+                  ]
+                }
+            ]
+        },
+        {
+            "label": "1850",
+            "children": [
+                {
+                  "label": "Historians",
+                  "children": [
+                      {
+                          "label": "Professors",
+                          "data": {
+                              "layerId": "professors_1850"
+                          }
+                      },
+                      {
+                          "label": "Regular",
+                          "data": {
+                              "layerId": "regular_1850"
+                          }
+                      }
+                  ]
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,6411 @@
+{
+  "crs": {
+    "type": "name", 
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.584555538844259, 
+          46.30751099308203
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 1, 
+        "male": 19, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.90278438025218, 
+          41.324385284753475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 2, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.559865189024997, 
+          39.18099048760445
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 3, 
+        "male": 14, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.22740808575874194, 
+          43.99010355507049
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 4, 
+        "male": 13, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.570545161033296, 
+          42.60515779051753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 5, 
+        "male": 17, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.585274208426753, 
+          54.14602122423726
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 6, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.81956504972832, 
+          36.92583130066055
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 7, 
+        "male": 12, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.624229170743734, 
+          63.052840554034034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 8, 
+        "male": 10, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.2592656649963505, 
+          47.91124033823301
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 9, 
+        "male": 14, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.4573499649863226, 
+          44.458143065689384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 10, 
+        "male": 20, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.039760423170971, 
+          54.78612354623982
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 11, 
+        "male": 15, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.76570041830227, 
+          42.07801526784425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 12, 
+        "male": 14, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.86181550541745, 
+          37.65662692961868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 13, 
+        "male": 16, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.540392386395535, 
+          49.68428505622038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 14, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.7844501632956535, 
+          36.73670422274472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 15, 
+        "male": 10, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.198695614573408, 
+          41.54725237408847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 16, 
+        "male": 14, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.182655829571651, 
+          53.08887240901671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 17, 
+        "male": 13, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.045154664942027, 
+          49.53989535978599
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 18, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.335049805056084, 
+          59.12622291380229
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 19, 
+        "male": 15, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.88090672197046, 
+          41.42321953844129
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 20, 
+        "male": 11, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.341483094152004, 
+          52.442416210202154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 21, 
+        "male": 17, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.9973809760717103, 
+          52.49488145555479
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 22, 
+        "male": 17, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.973767540980543, 
+          61.21840054815982
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 23, 
+        "male": 12, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.6834763923783562, 
+          45.251628524691014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 24, 
+        "male": 17, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.661976492832181, 
+          62.025303744170415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 25, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.319254701887836, 
+          52.50500119759852
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 26, 
+        "male": 20, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.154363815740055, 
+          38.29397322571918
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 27, 
+        "male": 10, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.37867207085161, 
+          62.32019441490547
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 28, 
+        "male": 13, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.141582874335393, 
+          51.77194733889598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 29, 
+        "male": 18, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.040212954245872, 
+          40.77367125709998
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 30, 
+        "male": 11, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.579931449377847, 
+          64.0825248599541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 31, 
+        "male": 14, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.2100736508309, 
+          50.828765731531604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 32, 
+        "male": 11, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.245943276305887, 
+          37.63306642596317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 33, 
+        "male": 12, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.3035035899821956, 
+          37.95837260981279
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 34, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.200243266130656, 
+          51.93489885861508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 35, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.378640719483354, 
+          45.917723896377424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 36, 
+        "male": 10, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.9798785423139975, 
+          38.48776335127519
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 37, 
+        "male": 20, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.73378809751258, 
+          61.87331843544044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 38, 
+        "male": 15, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.5597896906624253, 
+          50.67061065454018
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 39, 
+        "male": 14, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.1439745677011626, 
+          59.08391928375348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 40, 
+        "male": 11, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.97317497007937, 
+          61.41968632555186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 41, 
+        "male": 10, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.991247796450214, 
+          45.526876848536716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 42, 
+        "male": 13, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.939145877461726, 
+          38.537822823136786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 43, 
+        "male": 11, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.6070501756655595, 
+          51.99788846303228
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 44, 
+        "male": 11, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.908348441788597, 
+          62.542686894516066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 45, 
+        "male": 15, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.920871060112383, 
+          63.1993528639903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 46, 
+        "male": 13, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.255314800495935, 
+          63.056285802401284
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 47, 
+        "male": 15, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.3256281809707673, 
+          44.37107969774198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 48, 
+        "male": 18, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.573214484177775, 
+          55.00152896866352
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 49, 
+        "male": 14, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.683632343931905, 
+          61.717441285555424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 50, 
+        "male": 17, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.6034119318951, 
+          40.97588404981004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 51, 
+        "male": 20, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.779797475428143, 
+          56.95850820715881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 52, 
+        "male": 16, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.560317521419874, 
+          51.89672927251664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 53, 
+        "male": 16, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.416947734266127, 
+          40.397347146041554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 54, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.60799579326408, 
+          62.52706720446232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 55, 
+        "male": 13, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.11560949488047, 
+          43.262969215738536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 56, 
+        "male": 10, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.741876798145082, 
+          51.926712906405356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 57, 
+        "male": 11, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.48454971100085054, 
+          44.487770680562036
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 58, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.7295145455324064, 
+          49.372194196338285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 59, 
+        "male": 13, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.7653533207943677, 
+          37.91910274124846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 60, 
+        "male": 10, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.396812619258373, 
+          57.57905761766595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 61, 
+        "male": 15, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.737635253933174, 
+          64.50706748162999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 62, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.287724945862308, 
+          41.609942585816114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 63, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.8113810394489125, 
+          56.1062963721482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 64, 
+        "male": 15, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.994766757568321, 
+          38.16006551775858
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 65, 
+        "male": 13, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.649188676207935, 
+          63.04919845812779
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 66, 
+        "male": 12, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.661573011831109, 
+          45.188034783548915
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 67, 
+        "male": 14, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.6956422348271, 
+          59.721833749698746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 68, 
+        "male": 20, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.939821815665207, 
+          54.14500485377606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 69, 
+        "male": 17, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.243005858816225, 
+          61.88712852651349
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 70, 
+        "male": 19, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.598743621877297, 
+          39.36255545820961
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 71, 
+        "male": 13, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.209232939446581, 
+          62.19732144094826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 72, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.64713526244809, 
+          57.06846681399627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 73, 
+        "male": 14, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.480752736889965, 
+          52.633890290960196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 74, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.800832505165618, 
+          57.657880261329076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 75, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.3552136362484, 
+          60.707555749859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 76, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.04856288917778, 
+          62.15056522746863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 77, 
+        "male": 10, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.401538321981704, 
+          53.373766497060714
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 78, 
+        "male": 20, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.365290181193505, 
+          61.580923940733854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 79, 
+        "male": 15, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.23089009532941, 
+          47.363641140859315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 80, 
+        "male": 19, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.354690547380443, 
+          48.119423542786194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 81, 
+        "male": 12, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.251459585024639, 
+          44.25420480183253
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 82, 
+        "male": 12, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.849195254088048, 
+          39.37051777549769
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 83, 
+        "male": 18, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.553057643192606, 
+          50.880054442678365
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 84, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.8592739293981557, 
+          42.97783850735979
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 85, 
+        "male": 13, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.52941996197456, 
+          44.45979441762709
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 86, 
+        "male": 19, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.08957725818495, 
+          42.538429884625465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 87, 
+        "male": 18, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.148437090308217, 
+          55.20712439879179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 88, 
+        "male": 17, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.954676046951462, 
+          52.97195447971826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 89, 
+        "male": 16, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.03932068437829, 
+          63.93400739446935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 90, 
+        "male": 15, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.926429324478038, 
+          45.768919546543614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 91, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.710548403041138, 
+          63.59464531356393
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 92, 
+        "male": 18, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.4283904792305941, 
+          39.34352722716135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 93, 
+        "male": 19, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.076637934053682, 
+          49.95551539316713
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 94, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.609236189519125, 
+          38.61761737215647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 95, 
+        "male": 20, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.1936714160538484, 
+          52.93953888084728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 96, 
+        "male": 16, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.463004354213734, 
+          60.15450297475698
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 97, 
+        "male": 10, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.01712426429079, 
+          55.84429582190636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 98, 
+        "male": 10, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.47566783029115, 
+          60.77656217696419
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 99, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.953944622112019, 
+          54.37016568881259
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 100, 
+        "male": 19, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.362230338002007, 
+          60.55056369823787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 101, 
+        "male": 13, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.935649226664435, 
+          37.01661658153874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 102, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.66068323118528, 
+          58.10849817722395
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 103, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.663920491471586, 
+          39.592427406301
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 104, 
+        "male": 16, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.228845151566475, 
+          62.89012667279113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 105, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.397332462438428, 
+          59.51140937341221
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 106, 
+        "male": 20, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.5689669412182, 
+          56.597572246663965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 107, 
+        "male": 11, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.374956003279035, 
+          39.11662503945544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 108, 
+        "male": 13, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.85223935105198, 
+          47.43878608639993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 109, 
+        "male": 12, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.04240869497678, 
+          41.31907071517573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 110, 
+        "male": 19, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.411122924558015, 
+          43.38639238104609
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 111, 
+        "male": 19, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.1246309213121, 
+          40.018702906418696
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 112, 
+        "male": 18, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.4538414624343083, 
+          43.1920333934494
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 113, 
+        "male": 11, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.29406373669204, 
+          46.19391325196116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 114, 
+        "male": 14, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.887686247677074, 
+          62.676635906873535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 115, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.424148463510512, 
+          40.007715846231285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 116, 
+        "male": 15, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.27886941087023, 
+          59.879275842183745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 117, 
+        "male": 11, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.729879071362259, 
+          53.75954696158493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 118, 
+        "male": 17, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.672996467462557, 
+          43.01917304617358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 119, 
+        "male": 10, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.15411473095778, 
+          51.380021355231776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 120, 
+        "male": 18, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.631204342668664, 
+          43.77297548571793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 121, 
+        "male": 18, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.56187161390249, 
+          57.34482391824318
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 122, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.858284776727835, 
+          48.845063436053124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 123, 
+        "male": 19, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.539137285215624, 
+          53.96866568677747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 124, 
+        "male": 18, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.098087207659916, 
+          45.05672934327859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 125, 
+        "male": 17, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.90333312980605, 
+          64.21135853154063
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 126, 
+        "male": 16, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.990383263582533, 
+          62.79767082794487
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 127, 
+        "male": 11, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.218600911510364, 
+          49.53583240721074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 128, 
+        "male": 12, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.113884308758113, 
+          45.51412473187872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 129, 
+        "male": 16, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.406014511428218, 
+          44.68744826359571
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 130, 
+        "male": 18, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.176278400552409, 
+          42.58798604921582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 131, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.04085549663121313, 
+          58.10414349224071
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 132, 
+        "male": 10, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.4190120639608175, 
+          53.86969939790589
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 133, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.48183335075949, 
+          37.01335754287228
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 134, 
+        "male": 11, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.81664130299623, 
+          40.060650400742546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 135, 
+        "male": 20, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.194331906737396, 
+          54.99115934363626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 136, 
+        "male": 19, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.5047839027592671, 
+          38.55223710298973
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 137, 
+        "male": 12, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.865375668127186, 
+          61.328257202924846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 138, 
+        "male": 20, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.401880685834712, 
+          48.5297297854247
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 139, 
+        "male": 14, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.068900715223997, 
+          51.41935107674479
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 140, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.999855545901646, 
+          48.668782523192874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 141, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.47667434188829, 
+          64.02791205226427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 142, 
+        "male": 14, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.351828522029074, 
+          63.9572148487043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 143, 
+        "male": 10, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.670874010650042, 
+          57.63590800929387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 144, 
+        "male": 17, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.6073526073777162, 
+          53.64748135926869
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 145, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.29848941366586, 
+          64.28768754671148
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 146, 
+        "male": 13, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.79373363466278, 
+          51.60644732905159
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 147, 
+        "male": 14, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.036365711115423, 
+          60.68731797852512
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 148, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.7078341548431375, 
+          50.20358924254914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 149, 
+        "male": 14, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.591147470154546, 
+          59.81065889742369
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 150, 
+        "male": 15, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.531158011964195, 
+          52.77775214474822
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 151, 
+        "male": 19, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.392457702002844, 
+          63.93953399196874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 152, 
+        "male": 13, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.30103812876523595, 
+          58.505641149228076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 153, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.31918749825193, 
+          60.77011374085452
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 154, 
+        "male": 19, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.013217898304177, 
+          44.5443292073842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 155, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.501769782986912, 
+          43.65784532842234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 156, 
+        "male": 19, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.099648242780255, 
+          45.673941861320856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 157, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.431213466461315, 
+          45.1526013503034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 158, 
+        "male": 16, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.91405448251605, 
+          39.618542672838224
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 159, 
+        "male": 13, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.8003197278344691, 
+          62.736084807074505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 160, 
+        "male": 16, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.577055248648952, 
+          64.20094293111151
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 161, 
+        "male": 20, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.925661156575337, 
+          45.04057365420816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 162, 
+        "male": 18, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.35012271469285, 
+          62.026864476052836
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 163, 
+        "male": 20, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.43608495053099, 
+          61.59091664577265
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 164, 
+        "male": 16, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.4227900493244023, 
+          50.52966489878038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 165, 
+        "male": 10, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.987455063647865, 
+          56.59416577435492
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 166, 
+        "male": 20, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.52856963625898, 
+          37.38408577316438
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 167, 
+        "male": 13, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.686507558377638, 
+          60.30954812117138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 168, 
+        "male": 16, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.850430187184024, 
+          41.25712400980573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 169, 
+        "male": 20, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.4711259298358, 
+          62.54118830731886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 170, 
+        "male": 19, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.611245412189515, 
+          37.784610009196925
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 171, 
+        "male": 13, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.971409715897476, 
+          54.33197822856728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 172, 
+        "male": 18, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.546119697470875, 
+          60.75695286014293
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 173, 
+        "male": 15, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.479204581963195, 
+          41.35886221490677
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 174, 
+        "male": 14, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.759499247345072, 
+          59.03680796358452
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 175, 
+        "male": 11, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.7680872584405094, 
+          37.86290540076219
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 176, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.6705391511124477, 
+          63.389994140024996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 177, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.83180035531508, 
+          54.76413433536015
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 178, 
+        "male": 10, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.983848990460714, 
+          47.67384573071131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 179, 
+        "male": 12, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.081112069506196, 
+          38.589800193124546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 180, 
+        "male": 13, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.96280899021555, 
+          55.9221487904683
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 181, 
+        "male": 15, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.225395288215115, 
+          57.10263480625716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 182, 
+        "male": 20, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.581629700360212, 
+          62.016311430883704
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 183, 
+        "male": 11, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.936031036158965, 
+          47.18080834187197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 184, 
+        "male": 17, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.77434842172051, 
+          63.29591547333371
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 185, 
+        "male": 20, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.41927496273796727, 
+          61.6942353053448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 186, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.423326078209655, 
+          61.591874210350866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 187, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.2490339650816953, 
+          56.88546744122179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 188, 
+        "male": 11, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.579952421151532, 
+          37.11365302803159
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 189, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.8517927789157063, 
+          52.45885689875578
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 190, 
+        "male": 12, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.7767184735635855, 
+          53.508934680924554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 191, 
+        "male": 19, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.022317702472257, 
+          55.22362483908179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 192, 
+        "male": 17, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.15281644111122628, 
+          54.801268358130415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 193, 
+        "male": 10, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.439789052277729, 
+          40.187245266223734
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 194, 
+        "male": 13, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.387122782584516, 
+          63.97385450634681
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 195, 
+        "male": 10, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.708899395555125, 
+          56.85566462733574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 196, 
+        "male": 20, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.41850242394402, 
+          44.72272183853735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 197, 
+        "male": 13, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.329708262282235, 
+          42.899074621497014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 198, 
+        "male": 17, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.175601801842124, 
+          56.70965219504653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 199, 
+        "male": 11, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.003240877250644, 
+          56.23543144197609
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 200, 
+        "male": 19, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.055820890590388, 
+          53.43879687891502
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 201, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.89029907526305, 
+          54.71865030631251
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 202, 
+        "male": 13, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.932326536101655, 
+          40.6385105246148
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 203, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.145702815127425, 
+          39.35960098551168
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 204, 
+        "male": 14, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.589529833754966, 
+          43.31507839536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 205, 
+        "male": 11, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.642919945307032, 
+          41.81282292847319
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 206, 
+        "male": 10, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.22646377728083, 
+          39.224624997075715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 207, 
+        "male": 13, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.117379714783782, 
+          37.81642399284378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 208, 
+        "male": 15, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.96691077271592, 
+          45.21123857230607
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 209, 
+        "male": 20, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.272518215977204, 
+          55.843901992577905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 210, 
+        "male": 19, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.6953263135880645, 
+          44.928193920541744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 211, 
+        "male": 12, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.507768781284907, 
+          55.05774762687592
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 212, 
+        "male": 17, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.01455812839835, 
+          50.05824100983339
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 213, 
+        "male": 19, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.52603042733734, 
+          57.90095712881087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 214, 
+        "male": 10, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.598688815788689, 
+          45.346958041750284
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 215, 
+        "male": 16, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.71099553165589, 
+          51.266684200969436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 216, 
+        "male": 17, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.408902227481285, 
+          55.69824730482292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 217, 
+        "male": 19, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.012600017546198, 
+          64.61874085832552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 218, 
+        "male": 10, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.968697066202015, 
+          59.904523177762535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 219, 
+        "male": 15, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.11726946482717, 
+          37.41467818683202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 220, 
+        "male": 20, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.059093249373742, 
+          60.059763549714766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 221, 
+        "male": 20, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.918202531128767, 
+          47.019489550020566
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 222, 
+        "male": 14, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.477990295540234, 
+          41.05967097478537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 223, 
+        "male": 11, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.7652919783384027, 
+          58.110509205353914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 224, 
+        "male": 15, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.070286502617893, 
+          55.303942272290506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 225, 
+        "male": 15, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.267153832646322, 
+          47.225182439653196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 226, 
+        "male": 20, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.073490780486424, 
+          39.247243846902265
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 227, 
+        "male": 13, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.133066595765833, 
+          44.296525776382474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 228, 
+        "male": 16, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.4087577547689243, 
+          46.39021687342765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 229, 
+        "male": 11, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.195006103423904, 
+          43.76110189687124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 230, 
+        "male": 16, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.5863792945669575, 
+          41.481304564575225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 231, 
+        "male": 16, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.150160206865827, 
+          56.32370834060662
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 232, 
+        "male": 19, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.5501771653473817, 
+          39.91669942967567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 233, 
+        "male": 15, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.805745677770105, 
+          53.40635105978046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 234, 
+        "male": 19, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.1583323063090205, 
+          64.57447985106697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 235, 
+        "male": 17, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.709819406734326, 
+          53.09569168292248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 236, 
+        "male": 14, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.644345865246013, 
+          64.16824433160154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 237, 
+        "male": 18, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.154615162483532, 
+          63.8950030241222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 238, 
+        "male": 11, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.040820397878406, 
+          41.4303549577669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 239, 
+        "male": 20, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.699747676988494, 
+          51.770207471271235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 240, 
+        "male": 19, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.5723016620302586, 
+          44.19219703445785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 241, 
+        "male": 13, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.884423864273444, 
+          46.34482978929723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 242, 
+        "male": 16, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.79451083002359, 
+          57.625414765878354
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 243, 
+        "male": 14, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.875360937253825, 
+          56.61299187602668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 244, 
+        "male": 17, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.543722220236983, 
+          48.475697570638616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 245, 
+        "male": 16, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.394318390251682, 
+          62.7165943371271
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 246, 
+        "male": 10, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.776610515552544, 
+          37.515920304875166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 247, 
+        "male": 14, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.0566962535093, 
+          57.05448716217274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 248, 
+        "male": 11, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.067474077228512, 
+          43.852707387538615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 249, 
+        "male": 16, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.063830391584055, 
+          43.52192968243493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 250, 
+        "male": 19, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.74830819235629, 
+          37.0254497120614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 251, 
+        "male": 14, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.790604723559262, 
+          45.7685918647112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 252, 
+        "male": 18, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.76797178054169, 
+          54.83780796907259
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 253, 
+        "male": 10, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.18778476265854, 
+          52.30903709465139
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 254, 
+        "male": 16, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.326128057008013, 
+          51.08318570512533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 255, 
+        "male": 11, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.149060032683796, 
+          45.22968199824079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 256, 
+        "male": 17, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          27.5402459737469, 
+          62.66351473158361
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 257, 
+        "male": 19, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.37345978948813, 
+          61.66310825824361
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 258, 
+        "male": 10, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.316338606112208, 
+          47.2262412246235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 259, 
+        "male": 16, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.739899553967822, 
+          52.04799272639779
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 260, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.0737571380216373, 
+          36.78418551630554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 261, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.5693714569469073, 
+          57.22726101625269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 262, 
+        "male": 14, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.127295417187545, 
+          50.01331119657513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 263, 
+        "male": 18, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.45311256781904, 
+          59.57804596301523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 264, 
+        "male": 11, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.74771915926161, 
+          50.38477516311412
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 265, 
+        "male": 10, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -5.337691506886884, 
+          50.90652447853026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 266, 
+        "male": 13, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.33602182288253, 
+          44.05334119067921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 267, 
+        "male": 15, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.48862233503322905, 
+          49.035089848904036
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 268, 
+        "male": 20, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.87409142579682, 
+          38.740798747902716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 269, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.155042486571016, 
+          39.31191331391612
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 270, 
+        "male": 15, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.976808549644936, 
+          49.39005297497084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 271, 
+        "male": 18, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.511453797216289, 
+          41.46001256144749
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 272, 
+        "male": 13, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.213982517184845, 
+          47.59592812327663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 273, 
+        "male": 14, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.736325109099216, 
+          41.312544770302424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 274, 
+        "male": 14, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.452969148901425, 
+          41.51571043241571
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 275, 
+        "male": 19, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.778093810060575, 
+          59.963536371513754
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 276, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.98954990785556, 
+          39.380653007701305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 277, 
+        "male": 15, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.320410021874459, 
+          47.06593337217066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 278, 
+        "male": 17, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.76689170093518, 
+          49.40496500385969
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 279, 
+        "male": 18, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.579656049520317, 
+          56.82472253483846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 280, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.390908945643353, 
+          45.88890260268537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 281, 
+        "male": 10, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.558647622841203, 
+          47.625821551347386
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 282, 
+        "male": 16, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.499199476969075, 
+          39.167731984064154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 283, 
+        "male": 19, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.341336110453657, 
+          49.36919209708846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 284, 
+        "male": 18, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.628207344373456, 
+          40.52302284950047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 285, 
+        "male": 10, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.527741073810917, 
+          41.58521086254022
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 286, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.602413693692352, 
+          53.10555292728044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 287, 
+        "male": 12, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.7967335553678, 
+          37.274148336266315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 288, 
+        "male": 20, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.925871068855017, 
+          62.55796603465803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 289, 
+        "male": 15, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.367733105813469, 
+          57.79647274329653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 290, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.39051539566232, 
+          55.86849803401816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 291, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7511548958825, 
+          59.262224791193155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 292, 
+        "male": 13, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.413376256959964, 
+          56.005510264380426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 293, 
+        "male": 16, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.204164862343013, 
+          43.016587409799556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 294, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.212880311642833, 
+          62.46150939918718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 295, 
+        "male": 18, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.28185108410334, 
+          54.723528129069294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 296, 
+        "male": 15, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.707184307415799, 
+          50.67149855040676
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 297, 
+        "male": 11, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.13539349453247, 
+          47.53022022271186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 298, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.27806115208517, 
+          50.26650670370911
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 299, 
+        "male": 19, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.17551142061384084, 
+          47.36959722175937
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 300, 
+        "male": 10, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.5005863141572062, 
+          52.75494846415098
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 301, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.74054486024577, 
+          39.53543599819098
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 302, 
+        "male": 13, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.994622832397916, 
+          59.43569145246414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 303, 
+        "male": 17, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.083356374678587, 
+          38.54090009763747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 304, 
+        "male": 12, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.6714210812191883, 
+          55.732039550127794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 305, 
+        "male": 14, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.14099817406631, 
+          57.71480011410782
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 306, 
+        "male": 10, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.963407331613936, 
+          39.7514183336216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 307, 
+        "male": 12, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.069105234425653, 
+          58.3563082373823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 308, 
+        "male": 18, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.23057106876638, 
+          48.26384473825881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 309, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.040214516452983, 
+          64.50688135002335
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 310, 
+        "male": 19, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.341261194544785, 
+          40.19488882083171
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 311, 
+        "male": 14, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.097794897317357, 
+          45.60791553240186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 312, 
+        "male": 17, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.02877216613247402, 
+          41.69638761977161
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 313, 
+        "male": 11, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.346092507428768, 
+          60.26354252801931
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 314, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.79180236942068, 
+          47.81994189637991
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 315, 
+        "male": 20, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.023545958839442, 
+          38.33047408641954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 316, 
+        "male": 15, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.28700939536104, 
+          37.3826591568334
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 317, 
+        "male": 20, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.604457882455268, 
+          60.301323837566606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 318, 
+        "male": 15, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.069433877144498, 
+          58.35086003959016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 319, 
+        "male": 19, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.4490785919177904, 
+          48.89204942445009
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 320, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.5330570182819239, 
+          57.42819109749697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 321, 
+        "male": 15, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.149718146005872, 
+          41.326689788752184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 322, 
+        "male": 17, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.3459899432014337, 
+          50.487313749837014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 323, 
+        "male": 20, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.980492004647495, 
+          62.00268510541275
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 324, 
+        "male": 19, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.4677698616087547, 
+          48.09828383732115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 325, 
+        "male": 19, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.45977853075383, 
+          45.771591246530214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 326, 
+        "male": 12, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.2506872725442495, 
+          54.81612627597805
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 327, 
+        "male": 16, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.611047635746385, 
+          60.55579002191543
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 328, 
+        "male": 12, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.66288635649854, 
+          60.21835283064199
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 329, 
+        "male": 11, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.057801102096352, 
+          43.04709744572769
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 330, 
+        "male": 14, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.50847275555328, 
+          41.36733182423681
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 331, 
+        "male": 19, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.994122014836702, 
+          61.298181319358505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 332, 
+        "male": 16, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.393810117728583, 
+          60.2250231463014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 333, 
+        "male": 12, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.762668161149044, 
+          45.472841431247694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 334, 
+        "male": 19, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.93317735588083, 
+          46.60082357522114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 335, 
+        "male": 15, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.771026239498777, 
+          42.38266525813324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 336, 
+        "male": 15, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.09518802999140608, 
+          54.77627246198629
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 337, 
+        "male": 18, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.19807385985368, 
+          39.13140873742531
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 338, 
+        "male": 20, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.203697726873298, 
+          41.30098365001402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 339, 
+        "male": 16, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.7443434893987675, 
+          48.06878295434523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 340, 
+        "male": 15, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.863111214735312, 
+          42.637330672845735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 341, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.90863757809845, 
+          62.283301305889985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 342, 
+        "male": 18, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.72661145328801, 
+          39.083383326488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 343, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.0065764234605412, 
+          38.18650340837254
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 344, 
+        "male": 13, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.7425871703206877, 
+          58.4661303253248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 345, 
+        "male": 10, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.171293714899843, 
+          46.35781156044059
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 346, 
+        "male": 10, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.524229865960259, 
+          59.171680557968116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 347, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          29.463384041868736, 
+          41.45035278435843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 348, 
+        "male": 20, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.508467127825488, 
+          61.03765847548564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 349, 
+        "male": 10, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.103810987468474, 
+          44.782996045554675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 350, 
+        "male": 15, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.860879651096411, 
+          59.04576885854074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 351, 
+        "male": 10, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.320242999434228, 
+          62.824605630063814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 352, 
+        "male": 12, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.8813858499675487, 
+          54.06392835442386
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 353, 
+        "male": 16, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.976861463660285, 
+          39.189533980634124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 354, 
+        "male": 14, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.65319484470415, 
+          52.03821966770232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 355, 
+        "male": 17, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.631727062109551, 
+          48.22211934679933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 356, 
+        "male": 11, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.920846380358824, 
+          46.052275074719816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 357, 
+        "male": 18, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.827703196192282, 
+          50.432615921732626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 358, 
+        "male": 11, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.730304554196158, 
+          42.8081946560139
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 359, 
+        "male": 18, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.25341451991523, 
+          50.67838445605226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 360, 
+        "male": 14, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.176127268125036, 
+          55.87443130703066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 361, 
+        "male": 13, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.759046684735203, 
+          40.435254501577006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 362, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.717935234290941, 
+          57.99262114305113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 363, 
+        "male": 12, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.14325015007941, 
+          54.35517526057826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 364, 
+        "male": 17, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.565123372873963, 
+          44.022239626983314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 365, 
+        "male": 16, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.12377963900141, 
+          53.1676047042498
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 366, 
+        "male": 16, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.21002643463295, 
+          62.459000592033505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 367, 
+        "male": 12, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.000688104210866, 
+          58.94435884602061
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 368, 
+        "male": 19, 
+        "female": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.0638344457248, 
+          38.48431263586784
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 369, 
+        "male": 10, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.911654729569387, 
+          60.90860069604541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 370, 
+        "male": 18, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.493327749395274, 
+          50.8341284182819
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 371, 
+        "male": 16, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          24.96314487027564, 
+          56.5378311936182
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 372, 
+        "male": 12, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.741040564811854, 
+          57.80301588711126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 373, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.5618173257307, 
+          52.76188745009305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 374, 
+        "male": 20, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.276903813069017, 
+          43.3743082182959
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 375, 
+        "male": 19, 
+        "female": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.349726262697935, 
+          46.596327756771736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 376, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.122442494837246, 
+          55.10469304357977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 377, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.535209817591916, 
+          53.325156151185766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 378, 
+        "male": 16, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.441575855269512, 
+          43.6087711063283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 379, 
+        "male": 13, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.5972859415269305, 
+          42.78499173390062
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 380, 
+        "male": 18, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.6394765556857203, 
+          36.883663516076176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 381, 
+        "male": 19, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.782800309266392, 
+          45.64928453780473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 382, 
+        "male": 19, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          26.249257807693336, 
+          42.60229496385773
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 383, 
+        "male": 14, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.36932993151025, 
+          40.92876780890815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 384, 
+        "male": 10, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.30763280834678, 
+          52.124716740891635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 385, 
+        "male": 10, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.19920431958041, 
+          47.15036154953143
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 386, 
+        "male": 10, 
+        "female": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.595026776271091, 
+          41.15877532669657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 387, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.5355585385283472, 
+          45.5726728682026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 388, 
+        "male": 17, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          21.719215160238083, 
+          40.782933394313226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 389, 
+        "male": 16, 
+        "female": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.4619567639483417, 
+          45.94028396795382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 390, 
+        "male": 10, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.98759848174737, 
+          55.96828574222614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 391, 
+        "male": 12, 
+        "female": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          23.211502077027557, 
+          38.629424768387146
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 392, 
+        "male": 17, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.3419936650602793, 
+          49.96342454816161
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "London", 
+        "ogc_fid": 393, 
+        "male": 18, 
+        "female": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.848540505286592, 
+          44.459367402392424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 394, 
+        "male": 18, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.609565303665413, 
+          56.14283514147752
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 395, 
+        "male": 17, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.75028154730829, 
+          57.49971279763747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 396, 
+        "male": 18, 
+        "female": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.46494533064512, 
+          45.0538774589952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Frankfurt", 
+        "ogc_fid": 397, 
+        "male": 14, 
+        "female": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.21217731455038, 
+          46.71506073760757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 398, 
+        "male": 19, 
+        "female": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.705764984904588, 
+          46.775182513478484
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Paris", 
+        "ogc_fid": 399, 
+        "male": 12, 
+        "female": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.81866363325174, 
+          44.11945100247883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "city": "Berlin", 
+        "ogc_fid": 400, 
+        "male": 12, 
+        "female": 10
+      }
+    }
+  ]
+}
