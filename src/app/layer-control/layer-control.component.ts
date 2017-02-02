@@ -68,6 +68,10 @@ export class LayerControlComponent implements OnInit {
     map.getView().fit(layer.getSource().getExtent(), map.getSize());
   }
 
+  downloadGeoJson() {
+    console.log("TBD");
+  }
+
   editStyle(event: any, node: any) {
     event.stopPropagation();
     this.activeStyleLayerName = node.data.layerId;
@@ -80,6 +84,7 @@ export class LayerControlComponent implements OnInit {
     let layer = this.layerService.getLayer(this.activeAttributeLayerName);
     let features = layer.getSource().getFeatures();
     // collect the colHeaders
+    this.colHeaders = []; 
     let props = features[0].getProperties();
     for (let propMember in props) {
         if (propMember !== "geometry") {

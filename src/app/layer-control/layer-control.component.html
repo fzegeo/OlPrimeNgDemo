@@ -19,7 +19,7 @@
             </div>
             <div *ngIf="node.showUiOptions" class="node-ui-elements">
                 <i class="fa fa-arrows-alt" (click)="zoomToExtent($event, node)" pTooltip="Zoom to Extent" tooltipPosition="top"></i>
-                <i class="fa fa-download" pTooltip="Download as Geojson" tooltipPosition="top"></i>
+                <i class="fa fa-download" (click)="downloadGeoJson($event, node)" pTooltip="Download as Geojson" tooltipPosition="top"></i>
                 <i class="fa fa-database" (click)="showAttributes($event, node)" pTooltip="Show Attributes" tooltipPosition="top"></i>
                 <i class="fa fa-edit" (click)="editStyle($event, node)" pTooltip="Edit Style" tooltipPosition="top"></i>
             </div>

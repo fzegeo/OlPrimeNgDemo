@@ -38,7 +38,8 @@ import { StyleService } from './services/style.service';
     AttributeTableComponent,
     LayerControlComponent,
     MapComponent,
-    StyleEditorComponent
+    StyleEditorComponent,
+    LayerControlComponent
   ],
   imports: [
     BrowserModule,
