@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
 
+import { Subject } from 'rxjs/Subject';
+
 import { ConfigService } from './config.service';
 import { StyleService } from './style.service';
 
@@ -9,6 +11,7 @@ declare var ol: any;
 export class LayerService {
 
   layers: any;
+  randomCount: number = 1;
 
   constructor(
     private configService: ConfigService,
@@ -61,5 +64,37 @@ export class LayerService {
 
   getLayer(layerId: string): any {
       return this.layers[layerId];
+  }
+
+  addLayer(featureNumber: number) {
+      let features = [];
+      let layerName = "Random" + this.randomCount;
+      let style = this.styleService.createRandomStyle(layerName);
+      this.styleService.setDefaultStyle(layerName, style);
+      for (let i=0; i<featureNumber; i++) {
+        features.push(new ol.Feature({
+            geometry: new ol.geom.Point(ol.proj.fromLonLat([Math.random() * 8, 40 + (Math.random() * 8)])),
+            city: ["London", "Paris", "Berlin"][Math.round(Math.random() * 2)],
+            num: Math.round(Math.random() * 7)
+        }));
+      }
+      let vectorSource = new ol.source.Vector({
+          features: features
+      });
+      let vectorLayer = new ol.layer.Vector({
+          name: layerName,
+          source: vectorSource,
+          visible: true,
+          style: (feature, resolution) => {
+              if (feature.get("selected")) {
+                return [this.styleService.getSelectedStyle()]
+              } else {
+                return [this.styleService.getDefaultStyle(layerName)]
+              }
+          }
+      });
+      this.layers[layerName] = vectorLayer; 
+      this.randomCount += 1;
+      return vectorLayer;
   }
 }

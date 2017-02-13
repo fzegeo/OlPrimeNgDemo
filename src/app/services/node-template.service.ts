@@ -57,7 +57,7 @@ export class NodeTemplateService {
                   ]
               },
               {
-                  "label": "Custo Query",
+                  "label": "Custom Query",
                   "children": [],
                   "leaf": false
               }

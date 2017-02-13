@@ -1,10 +1,18 @@
 <h1>
   {{title}}
 </h1>
+
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-3">
-            <nlc-layer-control></nlc-layer-control>
+            <p-accordion [multiple]="true">
+                <p-accordionTab header="Layer Control" [selected]="true">
+                    <nlc-layer-control></nlc-layer-control>
+                </p-accordionTab>
+                <p-accordionTab header="Layer add">
+                    <button (click)="addLayer()">Layer Add</button>
+                </p-accordionTab>
+            </p-accordion>
         </div>
         <div class="col-md-9">
             <nlc-map></nlc-map>

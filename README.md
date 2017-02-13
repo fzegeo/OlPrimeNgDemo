@@ -4,8 +4,8 @@ Demo-Project to illustrate integration of OpenLayers in Angular2 with the [prime
 
 ## ToDo
 
-Add Styling for components ('uglified' for structure highlighting)
-
+    * Add Styling for components ('uglified' for structure highlighting)
+    * Adding node does not update the checkboxes
 
 ## Misc
 

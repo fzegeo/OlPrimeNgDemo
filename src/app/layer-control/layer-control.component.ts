@@ -17,7 +17,7 @@ import { ConfigService } from '../services/config.service';
 export class LayerControlComponent implements OnInit {
 
   layerTree: TreeNode[];
-  selectedLayers: TreeNode[];
+  selectedLayers: TreeNode[] = [];
   years: string[];
   year: string;
   prevYear: string;
@@ -46,6 +46,20 @@ export class LayerControlComponent implements OnInit {
       this.updateLayerTree(this.layerTree, this.prevYear, this.year);
       this.years = configService.getYears();
 
+      this.mapService.layerAdd$.subscribe((layer) => {
+          let node = {
+              label: layer.get("name"),
+              data: {
+                  layerId: layer.get("name"),
+                  removable: true
+              }
+          };
+          // TODO: pass target with layer add
+          this.layerTree[2].children.push(node);
+          this.selectedLayers.push(node);
+          console.log(this.layerTree[2]);
+
+      });
   }
 
 
@@ -64,8 +78,9 @@ export class LayerControlComponent implements OnInit {
   zoomToExtent(event: any, node: any) {
     event.stopPropagation();
     let layer = this.layerService.getLayer(node.data.layerId);
+    let extent = layer.getSource().getExtent();
     let map = this.mapService.getMap();
-    map.getView().fit(layer.getSource().getExtent(), map.getSize());
+    map.getView().fit(extent, map.getSize());
   }
 
   downloadGeoJson() {
@@ -84,7 +99,7 @@ export class LayerControlComponent implements OnInit {
     let layer = this.layerService.getLayer(this.activeAttributeLayerName);
     let features = layer.getSource().getFeatures();
     // collect the colHeaders
-    this.colHeaders = []; 
+    this.colHeaders = [];
     let props = features[0].getProperties();
     for (let propMember in props) {
         if (propMember !== "geometry") {
@@ -114,12 +129,17 @@ export class LayerControlComponent implements OnInit {
                 let currLayerId = node.data.layerIdTemplate(this.year);
                 node.data.layerId = currLayerId;
                 // TODO: better way to update
+                console.log(node.data.layerId);
+                console.log(node.partialSelected);
                 if (node.partialSelected === false) {
                     let prevLayerId = node.data.layerIdTemplate(this.prevYear);
+                    let prevLayerVisible = this.layerService.getLayer(prevLayerId).getVisible();
                     this.layerService.getLayer(prevLayerId).setVisible(false);
-                    this.layerService.getLayer(currLayerId).setVisible(true);
+                    this.layerService.getLayer(currLayerId).setVisible(prevLayerVisible);
                 }
             }
+        } else {
+            node["data"] = {};
         }
         if (node.children) {
             this.updateLayerTree(node.children, prevYear, currYear);
@@ -154,9 +174,25 @@ export class LayerControlComponent implements OnInit {
     this.recursiveLayerSwitcher(event.node, false);
   }
 
+  deleteLayer(event: any, node: any) {
+      event.stopPropagation();
+      this.mapService.removeLayer(this.layerService.getLayer(node.data.layerId));
+      let parent = node.parent;
+      console.log("Filtering selected layers");
+      this.selectedLayers = this.selectedLayers.filter((nodeItem) => { return nodeItem !== node });
+      console.log("Filtering parent children");
+      parent.children = parent.children.filter((nodeItem) => { return nodeItem !== node });
+      console.log("Parent state");
+      console.log(parent);
+  }
+
   toggleUiOptions(event: any, node: any) {
     event.stopPropagation();
     node.showUiOptions = !node.showUiOptions;
   }
 
+  logTree() {
+      console.log("Layer Tree: ");
+      console.log(this.layerTree);
+  }
 }

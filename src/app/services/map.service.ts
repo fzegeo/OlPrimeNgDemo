@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
 
+import { Subject } from 'rxjs/Subject';
+
 import { LayerService } from './layer.service';
 
 declare var ol: any;
@@ -7,6 +9,9 @@ declare var ol: any;
 @Injectable()
 export class MapService {
   olmap: any;
+  private layerAddSource = new Subject<any>();
+  layerAdd$ = this.layerAddSource.asObservable();
+
   constructor(private layerService: LayerService) {
     let layers = [
       new ol.layer.Tile({
@@ -28,6 +33,15 @@ export class MapService {
     });
   }
 
+  addLayer(layer: any):void {
+      this.olmap.addLayer(layer);
+      this.layerAddSource.next(layer);
+  }
+
+  removeLayer(layer: any):void {
+      this.olmap.removeLayer(layer);
+  }
+  
   getMap():any {
     return this.olmap;
   }

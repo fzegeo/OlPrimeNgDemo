@@ -54,13 +54,17 @@ export class StyleService {
         })
       });
   }
-  
+
   getDefaultStyle(layerName: string):any {
     if (this.defaultStyles[layerName] === undefined) {
       console.log("Style not yet defined!");
       this.defaultStyles[layerName] = this.createRandomStyle(layerName);
     }
     return this.defaultStyles[layerName];
+  }
+
+  setDefaultStyle(layerName: string, style: any):any {
+      this.defaultStyles[layerName] = style; 
   }
 
   getSelectedStyle():any {

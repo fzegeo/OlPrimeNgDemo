@@ -3,7 +3,14 @@
 }
 
 .node-ui-elements {
-    height: 15px;
+    height: 2em;
+    text-align: center;
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
+.node-ui-elements i {
+    font-size: 1.2em;
 }
 
 .ui-tree {
